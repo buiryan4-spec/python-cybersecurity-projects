@@ -1,3 +1,4 @@
+# This project is for educational use only
 # Educational project demonstrating how keyloggers work for cybersecurity awareness
 # Created as part of a learning program (UOP Summer Institute, 2024)
 
